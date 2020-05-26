@@ -1,3 +1,5 @@
+# (2020-05-26更新：已失效)
+
 # 4to6
 
 ### 使用6chang服务器的ikev2协议的Virtual Private Network，以及我的账号，可能还是比较麻烦的windows脚本
